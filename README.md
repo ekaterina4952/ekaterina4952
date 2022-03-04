@@ -1,8 +1,7 @@
 # Hi there 👋
 
-
+- **Front Developer**:  React/Vue Express/Node.
 - **Backend Engineer**: Laravel/Django/ASP. 
-- **Front Developer**:  React/Vue/Livewire+Tailwind/Bootstrap.
 - **Mobile Developer**: ReactNative/Flutter
 
 - **CRM**:              Saleforce/Zoho. 
