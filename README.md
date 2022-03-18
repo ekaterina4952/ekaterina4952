@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- **Front Developer**:  React/Vue Express/Node.
+- **Front Developer**:  React/Next/Vue Express/Node.
 - **Backend Engineer**: Laravel/Django/ASP. 
 - **Mobile Developer**: ReactNative/Flutter
 
