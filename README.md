@@ -1,10 +1,5 @@
 # Hi there 👋
 
-- **Front Developer**:  React/Next/Vue Express/Node.
-- **Backend Engineer**: Laravel/Django/ASP. 
+- **Front Developer**:  NextJs/Vue.
+- **Backend Engineer**: Laravel/Django. 
 - **Mobile Developer**: ReactNative/Flutter
-
-- **CRM**:              Saleforce/Zoho. 
-- **ERP**:              Oracle Netsuite/Microsoft dynamics.
-- **Marketing**: GoogleAds/Analytics/BingAds
-- **eCommerce**: Amazon MWS & SellingPartner/eBay/Woo/Shopify
