@@ -1,5 +1,5 @@
 # Hi there 👋
 
-- **Front Developer**:  NextJs/Vue.
+- **Front Developer**:  React/NextJs.
 - **Backend Engineer**: Laravel/Django. 
-- **Mobile Developer**: ReactNative/Flutter
+- **Mobile Developer**: ReactNative/Swift
